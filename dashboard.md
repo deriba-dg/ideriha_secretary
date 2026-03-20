@@ -53,14 +53,14 @@ mindmap
 | PEAKS関連 | 6 | - | [tasks](projects/derigino/peaks/tasks.md) |
 | SB-Rohto関連 | 0 | - | [tasks](projects/derigino/sb-rohto/tasks.md) |
 | 天野PJ関連 | 0 | - | [tasks](projects/derigino/amano-pj/tasks.md) |
-| WMATCHA&CO連携 | 1 | - | [tasks](projects/derigino/wmatcha-co/tasks.md) |
+| WMATCHA&CO連携 | 0 | - | [tasks](projects/derigino/wmatcha-co/tasks.md) |
 
 ## 今週の重要タスク
 
 - **[PEAKS]** 契約書の締結日確定・作業工程表・仕様書の確認
 - **[PEAKS]** 固定報酬180万円の支払い方法を検討（分割払い交渉の要否）
 - **[PEAKS]** 単語出題アルゴリズムの設計・整理
-- **[WMATCHA&CO]** 脳波デバイス見積書（320万円+税）を確認・送付
+- ~~**[WMATCHA&CO]** 脳波デバイス見積書（320万円+税）を確認・送付~~ ✅完了
 
 ## inbox から整理待ちの項目
 

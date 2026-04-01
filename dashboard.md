@@ -37,7 +37,7 @@ mindmap
 | Webサイト開発 | 0 | - | [tasks](projects/mitou-advanced/website/tasks.md) |
 | 単発イベント関連 | 0 | - | [tasks](projects/mitou-advanced/single-events/tasks.md) |
 | 実証実験関連 | 0 | - | [tasks](projects/mitou-advanced/field-experiment/tasks.md) |
-| TUNE-month関連 | 2 | - | [tasks](projects/mitou-advanced/tune-month/tasks.md) |
+| TUNE-month関連 | 8 | - | [tasks](projects/mitou-advanced/tune-month/tasks.md) |
 | デバイス開発関連 | 0 | - | [tasks](projects/mitou-advanced/device/tasks.md) |
 | エビデンス調査 | 2 | - | [tasks](projects/mitou-advanced/evidence-research/tasks.md) |
 
